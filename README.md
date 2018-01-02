@@ -1,0 +1,1 @@
+# Kibana-index-training-second-try
